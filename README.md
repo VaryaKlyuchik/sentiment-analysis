@@ -11,7 +11,7 @@ The main objective is to build a machine learning model that predicts whether a 
 ## Dataset
 
 - **Dataset:** IMDb Movie Reviews
-- **Source:** https://ai.stanford.edu/~amaas/data/sentiment/
+- **Source:** https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?resource=download
 - **Size:** 50,000 labeled movie reviews
 - **Classes:** Positive / Negative
 
